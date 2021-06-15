@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "cypress\\fixtures"
+		},
+		{
+			"path": "cypress\\integration"
+		},
+		{
+			"path": "cypress\\plugins"
+		},
+		{
+			"path": "cypress\\support"
+		}
+	]
+}
